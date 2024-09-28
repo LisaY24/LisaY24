@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm **LisaY24**.
+Hi, I'm **LisaY24**. :wave:
 
 I'm interested in collaborating with Git users to learn secure web code. I'm a beginner at web development and looking to leverage my cyber security training to build strong, secure websites.  
 
