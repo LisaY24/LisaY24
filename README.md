@@ -4,7 +4,7 @@ Hi, I'm **LisaY24**.
 
 I'm interested in collaborating on secure web code.
 
-I'm a beginner at web development and looking to leverage my cyber security training to build strong, secure websites.
+I'm a beginner at web development and looking to leverage my cyber security training to build strong, secure websites.  I have experience creating SQL tables and writing SQL queries.
 
 
 <!---
